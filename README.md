@@ -33,3 +33,10 @@
              "{{variable}}_diff" := diff,
              "{{variable}}_mean" := mean)
    ```
+
+
+### Hannah Luebbering
+
+* What I accomplished this week
+* What I expect to accomplish next week
+* Any questions that I have 
