@@ -7,6 +7,12 @@
 * Introductions
 * Website updates (https://dmds.lucymcgowan.com)
 
+### Nuri Park
+
+* What I accomplished this week
+* What I expect to accomplish next week
+* Any questions that I have 
+
 ### Jonathan Trattner
 
 * Senior thesis:
