@@ -37,6 +37,11 @@
 
 ### Hannah Luebbering
 
-* What I accomplished this week
-* What I expect to accomplish next week
-* Any questions that I have 
+* Projects/ research tasks
+ * [explaining tidy data](https://github.com/hluebbering/explaining-tidy-data)
+ * [base list data frame](https://github.com/hluebbering/base-list-data-frame)
+ * [Using Tidyvsere to Manipulate Data](https://github.com/hluebbering/tidyverse-manipulating-data)
+ 
+* Goals
+
+* Questions 
