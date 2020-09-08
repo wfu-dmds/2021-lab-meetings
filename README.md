@@ -38,14 +38,23 @@
 ### Hannah Luebbering
 
 * Projects/ research tasks:
-  * Shiny/ Learnr Study
+  * Shiny/ Learnr study
     * [link](https://github.com/hluebbering/shiny-learnr-study) to documentation
-  * Tutorials on R `tidyverse` package
+  * Tutorials for R `tidyverse` package
     * [explaining tidy data](https://github.com/hluebbering/explaining-tidy-data)
     * [base list data frame](https://github.com/hluebbering/base-list-data-frame)
     * [using tidyvsere package to manipulate data](https://github.com/hluebbering/tidyverse-manipulating-data)
  
-* Goals
+* Goals:
+  * Continue Shiny/ Learnr study
+  * Format documents based on [Wiley Online Library](https://onlinelibrary.wiley.com/page/journal/20491573/homepage/forauthors.html) submission guidelines 
+  * Tidycode
+  * Help develop shiny applications in the classroom
   
 
 * Questions 
+  * As Jonathan mentioned, is it possible to conduct studies for Neuroimaging/ Neuroscience based R packages?
+  * How do you develop an R package?
+  * Is the tidycode package fully developed? If not, is there ongoing work for the package that I could help with?
+  
+  
