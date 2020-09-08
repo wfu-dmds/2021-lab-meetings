@@ -38,11 +38,14 @@
 ### Hannah Luebbering
 
 * Projects/ research tasks:
-  * Built tutorials based on R `tidyverse` package
+  * Shiny/ Learnr Study
+    * [link](https://github.com/hluebbering/shiny-learnr-study) to documentation
+  * Built tutorials for R `tidyverse` package
     * [explaining tidy data](https://github.com/hluebbering/explaining-tidy-data)
     * [base list data frame](https://github.com/hluebbering/base-list-data-frame)
     * [using tidyvsere package to manipulate data](https://github.com/hluebbering/tidyverse-manipulating-data)
  
 * Goals
+  
 
 * Questions 
