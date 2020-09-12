@@ -34,7 +34,6 @@
              "{{variable}}_mean" := mean)
    ```
 
-
 ### Hannah Luebbering
 
 * Projects/ research tasks:
@@ -57,4 +56,30 @@
   * How do you develop an R package?
   * Is the tidycode package fully developed? If not, is there ongoing work for the package that I could help with?
   
+
+## 2020-09-14
+
+### General
+
+### Iris Liu
+
+### Hannah Luebbering
+
+### Hannah Mendoza
+
+### Nuri Park
+
+### Jonathan Trattner
+
+* Accomplished
+  * Added [first draft of demographic sample code](https://github.com/LucyMcGowan/teaching-r-study/pull/3).
+
+* Next Steps
+  * Automating the demographic code. 
+    * I would appreciate your help with rlang evaluation (looking at the `getUICode` from the PR).
+    * I want to turn it into a Shiny module that takes in a csv file and returns the UI/server for capturing demographic info.
+ 
+* General Questions
+  * On [shinyapps.io](https://www.shinyapps.io) can we test whether `session$clientData$url_port` will provide a unique ID? That should be able to interface with Shiny/learnr documents.
+  * R packages for fMRI analysis
   
