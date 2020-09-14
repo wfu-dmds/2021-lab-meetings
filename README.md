@@ -67,6 +67,14 @@
 
 ### Hannah Mendoza
 
+* Accomplished 
+  * Added bio via Jonathan's guide (thank you!)
+  * Began working through happygitwithr tutorial
+    - made sure I had Git installed, created and threw away a test repo to make sure things were working properly
+    - connected RStudio to Git + GitHub
+  
+* Next steps
+
 ### Nuri Park
 
 1. What I accomplished this week
