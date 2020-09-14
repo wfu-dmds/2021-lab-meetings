@@ -1,5 +1,49 @@
 # Agenda
 
+## 2020-09-14
+
+### General
+
+### Iris Liu
+
+### Hannah Luebbering
+
+### Hannah Mendoza
+
+* Accomplished 
+  * Added bio via Jonathan's guide (thank you!)
+  * Began working through happygitwithr tutorial
+    - made sure I had Git installed, created and threw away a test repo to make sure things were working properly
+    - connected RStudio to Git + GitHub
+  
+* Next steps
+
+### Nuri Park
+
+1. What I accomplished this week
+ - I was able to go through little bit of learnR modules. I kept losing connection during the weekends. 
+ - have few commens/questions regarding learnR modules. 
+2. What I expect to accomplish next week
+ - Finish learn R modules. 
+3. Any questions that I have 
+ - What kind of resources did you use to develop learnR modules? 
+  * [Learnr help files](https://rstudio.github.io/learnr/#Exercises)
+  * [Learnr GitHub for examples](https://github.com/rstudio/learnr/tree/master/inst/tutorials/)
+
+### Jonathan Trattner
+
+* Accomplished
+  * Added [first draft of demographic sample code](https://github.com/LucyMcGowan/teaching-r-study/pull/3).
+
+* Next Steps
+  * Automating the demographic code. 
+    * I would appreciate your help with rlang evaluation (looking at the `getUICode` from the PR).
+    * I want to turn it into a Shiny module that takes in a csv file and returns the UI/server for capturing demographic info.
+ 
+* General Questions
+  * On [shinyapps.io](https://www.shinyapps.io) can we test whether `session$clientData$url_port` will provide a unique ID? That should be able to interface with Shiny/learnr documents.
+  * R packages for fMRI analysis
+
 ## 2020-09-07
 
 ### General
@@ -57,45 +101,4 @@
   * Is the tidycode package fully developed? If not, is there ongoing work for the package that I could help with?
   
 
-## 2020-09-14
-
-### General
-
-### Iris Liu
-
-### Hannah Luebbering
-
-### Hannah Mendoza
-
-* Accomplished 
-  * Added bio via Jonathan's guide (thank you!)
-  * Began working through happygitwithr tutorial
-    - made sure I had Git installed, created and threw away a test repo to make sure things were working properly
-    - connected RStudio to Git + GitHub
-  
-* Next steps
-
-### Nuri Park
-
-1. What I accomplished this week
- - I was able to go through little bit of learnR modules. I kept losing connection during the weekends. 
- - have few commens/questions regarding learnR modules. 
-2. What I expect to accomplish next week
- - Finish learn R modules. 
-3. Any questions that I have 
- - What kind of resources did you use to develop learnR modules? 
-
-### Jonathan Trattner
-
-* Accomplished
-  * Added [first draft of demographic sample code](https://github.com/LucyMcGowan/teaching-r-study/pull/3).
-
-* Next Steps
-  * Automating the demographic code. 
-    * I would appreciate your help with rlang evaluation (looking at the `getUICode` from the PR).
-    * I want to turn it into a Shiny module that takes in a csv file and returns the UI/server for capturing demographic info.
- 
-* General Questions
-  * On [shinyapps.io](https://www.shinyapps.io) can we test whether `session$clientData$url_port` will provide a unique ID? That should be able to interface with Shiny/learnr documents.
-  * R packages for fMRI analysis
   
