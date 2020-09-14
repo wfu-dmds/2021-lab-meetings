@@ -70,12 +70,12 @@
 ### Nuri Park
 
 1. What I accomplished this week
- * I was able to go through little bit of learnR modules. I kept losing connection during the weekends. 
- * have few commens/questions regarding learnR modules. 
+ - I was able to go through little bit of learnR modules. I kept losing connection during the weekends. 
+ - have few commens/questions regarding learnR modules. 
 2. What I expect to accomplish next week
- * Finish learn R modules. 
+ - Finish learn R modules. 
 3. Any questions that I have 
- * What kind of resources did you use to develop learnR modules? 
+ - What kind of resources did you use to develop learnR modules? 
 
 ### Jonathan Trattner
 
