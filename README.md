@@ -8,6 +8,8 @@
 
 ### Hannah Luebbering
 
+- [x] add a bio to our website
+
 ### Hannah Mendoza
 
 * Accomplished 
