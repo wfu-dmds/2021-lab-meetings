@@ -1,5 +1,13 @@
 # Agenda
 
+## 2020-09-21
+
+### General
+
+* Website
+* ASA Women in Statistics Twitter volunteer
+* Moving learnr modules to this GitHub Org
+
 ## 2020-09-14
 
 ### General
