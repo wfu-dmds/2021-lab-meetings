@@ -8,6 +8,22 @@
 * ASA Women in Statistics Twitter volunteer
 * Moving learnr modules to this GitHub Org
 
+### Nuri Park
+* What I accomplished this week
+  * Added bio 
+  * LearnR modules
+    * errors 
+      * reading data - connection error
+      * second Assessment "read.csv" incorrect
+      * last question on the second assessment is confusing. (I wasn't sure which function the question wants me to use)
+      * Reading data section for tidy - exercise gave me an error 'data/airquality.csv' does not exist. 
+      * manipulating data - object 'flights' not found
+      
+    * Suggestions:
+      * Subsetting tibbles - it'd be better to have a whole "df" shown once again before examples. I was confused what is referring to. 
+      * have more exercises (easy, intermediate, hard) 
+
+
 ## 2020-09-14
 
 ### General
