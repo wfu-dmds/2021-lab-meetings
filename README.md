@@ -9,6 +9,7 @@
 * Moving learnr modules to this GitHub Org
 
 ### Nuri Park
+
 * What I accomplished this week
   * Added bio 
   * LearnR modules
@@ -23,6 +24,19 @@
       * Subsetting tibbles - it'd be better to have a whole "df" shown once again before examples. I was confused what is referring to. 
       * have more exercises (easy, intermediate, hard) 
 
+### Jonathan Trattner
+
+* Accomplished
+  * Added [updated draft of demographic survey code](https://github.com/LucyMcGowan/teaching-r-study/pull/3).
+  * Added [a tentative schedule for completing my thesis](https://github.com/wfu-dmds/lab-meeting/blob/master/trattner_thesis_schedule.pdf).
+
+* Next Steps
+  * Dealing with dependence questions (need help).
+  * Conversion into Shiny Module (need guidance).
+     * Potentially collaborate with Dean Attali? He has the package [shinyforms](https://github.com/daattali/shinyforms) which is not being actively developed.
+ 
+* General Questions
+  * R Packages for fMRI Analysis
 
 ## 2020-09-14
 
