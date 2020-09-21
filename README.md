@@ -55,6 +55,12 @@
     * What type of decision? 
     * Use historical/relevant issues or something more abstract/theoretical? I'm not sure if using real topics would be unhelpful if these examples of changing advice have already been put out into the world, or on the other hand, if using made up scenarios would be bad communication if they're plausible enough, or perhaps be so obviously wrong that the survey is moot
 
+### Hannah Luebbering
+
+* Accomplished 
+* Next Steps
+* General Questions
+
 ## 2020-09-14
 
 ### General
