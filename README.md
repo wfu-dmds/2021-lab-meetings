@@ -37,6 +37,23 @@
  
 * General Questions
   * R Packages for fMRI Analysis
+  
+
+### Hannah Mendoza
+
+* Accomplished
+  * Finalized thesis topic
+  * Found 2014 [article](https://www.pnas.org/content/pnas/111/Supplement_4/13664.full.pdf) on communicating scientific uncertainty with types of decision making involving science communication, and some broad guidelines for conveying uncertainty
+  * Made broad list of possible topics for survey questions with types of decisions (noted in the article above) in mind
+
+* Next Steps
+  * Finalizing topic(s) -- need help (see below)
+  * Writing survey questions for topic with and without communication of uncertainty
+ 
+* General Questions
+  * Finalizing topic
+    * What type of decision? 
+    * Use historical/relevant issues or something more abstract/theoretical? I'm not sure if using real topics would be unhelpful if these examples of changing advice have already been put out into the world, or on the other hand, if using made up scenarios would be bad communication if they're plausible enough, or perhaps be so obviously wrong that the survey is moot
 
 ## 2020-09-14
 
