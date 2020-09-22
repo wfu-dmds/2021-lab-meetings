@@ -15,10 +15,12 @@
   * Added a bio to our website
   * Feedback for [shinyapps-tutorial](https://lucy.shinyapps.io/tutorial-a/)
     * On assessment tabs, an Error message occurred stating to check logs
+  * Looked over the teaching-r-study GitHub repo
     
 * Next Steps
-  * Look over teaching-r-study GitHub repo
+  * Continue to look over teaching-r-study GitHub repo
 * General Questions
+  * Is there any code I can help with in the teaching-r-study GitHub repo?
 
 
 
