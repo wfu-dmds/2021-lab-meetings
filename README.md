@@ -1,5 +1,14 @@
 # Agenda
 
+## 2020-09-28
+
+### General
+
+### Nuri Park
+
+* What I accomplished this week
+  * Uploaded the timeline for thesis
+
 ## 2020-09-21
 
 ### General
