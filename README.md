@@ -13,10 +13,9 @@
 
 * Accomplished 
   * Added a bio to our website
-  * Went through https://lucy.shinyapps.io/tutorial-a/ and provided feedback:
-     
-    * On the assessment tabs, an Error message occurred stating to check logs or contact the app author for clarification. 
-    * Maybe an issue with the browser I was using?
+  * Went through https://lucy.shinyapps.io/tutorial-a/
+  * Shiny tutorial feedback: 
+    * On the assessment tabs, an Error message occurred stating to check logs or contact the app author for clarification; Maybe an issue with the browser I was using?
     
 * Next Steps
 
