@@ -12,16 +12,18 @@
 ### Hannah Luebbering
 
 * Accomplished 
-- [x] add a bio to our website following the instructions here: https://github.com/wfu-dmds/dmds-website/issues/2
-- [x] go through https://lucy.shinyapps.io/tutorial-a/ and give feedback
-
+  * Added a bio to our website
+  * Went through https://lucy.shinyapps.io/tutorial-a/ and provided feedback:
+     
+    a. On the assessment tabs, an Error message occurred stating to check logs or contact the app author for clarification. 
+    b. Maybe an issue with the browser I was using?
+    
 * Next Steps
 
 - [ ] Look over teaching-r-study GitHub repo
 
 * General Questions
 
-- Shiny Tutorial A Feedback: Maybe there was an issue with the browser I used, but on the assessment tabs, an Error message occurred stating to check logs or contact the app author for clarification. 
 
 
 
