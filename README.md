@@ -9,6 +9,22 @@
 * What I accomplished this week
   * Uploaded the timeline for thesis
 
+### Hannah Luebbering
+
+* Accomplished 
+- [x] add a bio to our website following the instructions here: https://github.com/wfu-dmds/dmds-website/issues/2
+- [x] go through https://lucy.shinyapps.io/tutorial-a/ and give feedback
+
+* Next Steps
+
+- [ ] Look over teaching-r-study GitHub repo
+
+* General Questions
+
+- Shiny Tutorial A Feedback: Maybe there was an issue with the browser I used, but on the assessment tabs, an Error message occurred stating to check logs or contact the app author for clarification. 
+
+
+
 ## 2020-09-21
 
 ### General
