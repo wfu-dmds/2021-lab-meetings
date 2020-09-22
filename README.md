@@ -11,9 +11,9 @@
 
 ### Hannah Luebbering
 
-* Accomplished 
+* What I accomplished this week
   * Added a bio to our website
-  * Feedback for https://lucy.shinyapps.io/tutorial-a/: 
+  * Feedback for [shinyapps-tutorial](https://lucy.shinyapps.io/tutorial-a/)
     * On assessment tabs, an Error message occurred stating to check logs
     
 * Next Steps
