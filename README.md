@@ -8,6 +8,10 @@
 
 * What I accomplished this week
   * Uploaded the timeline for thesis
+  * look through the module and came up with few more example ideas
+
+* Next steps
+  * Attemp to fix errors
 
 ### Hannah Luebbering
 
