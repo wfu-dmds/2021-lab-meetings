@@ -39,6 +39,7 @@
 * Questions 
   * Do you have a bit of time this week to work 1:1 on these questions? Maybe Wednesday when we talk about Twitter, or we can find more time if we need? 
 
+* Look into prolific: https://www.prolific.co
 ## Sophia Fang
 
 * What I accomplished this week 
