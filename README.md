@@ -26,7 +26,18 @@
 * General Questions
   * Is there any code I can help with in the teaching-r-study GitHub repo?
 
+### Hannah Mendoza
 
+* What I accomplished this week
+  * Thought more deeply about survey questions, potential questions and topics [here](https://docs.google.com/document/d/1-wDLorEabuuIfkZjo0fOG53aLlsBDB2E31fZ4RoYNYM/edit?usp=sharing).
+  * Read article shared last week for ideas about conveying uncertainty for action-threshold decisions
+ 
+* Next steps 
+  * Select + revise questions for IRB
+  * think about and sketch out analyses to perform on data after we close survey
+
+* Questions 
+  * Do you have a bit of time this week to work 1:1 on these questions? Maybe Wednesday when we talk about Twitter, or we can find more time if we need? 
 
 
 ## 2020-09-21
