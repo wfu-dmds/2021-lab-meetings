@@ -42,6 +42,7 @@
 ## Sophia Fang
 
 * What I accomplished this week 
+  * Accept the invitation
 
 * Next steps
 
