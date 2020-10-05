@@ -1,5 +1,11 @@
 # Agenda
 
+## 2020-10-12
+
+### Presenting: [sign up here]
+
+### General
+
 ## 2020-10-05
 
 ### General 
