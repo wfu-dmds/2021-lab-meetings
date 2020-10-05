@@ -73,6 +73,17 @@
   
     }
     ```
+    
+### Hannah Mendoza 
+
+* Accomplished this week 
+  * Finalized topic + questions for survey 
+  * Began CITI training (about halfway through) 
+
+* Next steps 
+  * Finish CITI training 
+  * Read [write up](https://bookdown.org/Rmadillo/likert/always-visualize.html) on Likert analyses
+  * Update IRB document with Background, Purpose, Methods
 
 ## 2020-09-28
 
