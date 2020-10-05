@@ -17,6 +17,62 @@
  * Questions
    * Can you help me fixing errors? 
    * Can you review exercise that I added? 
+   
+   
+### Jonathan Trattner
+
+* Accomplished
+  * Added UI and server code for required questions for taskdesignr.
+  * Improved dependence functionality.
+
+* Next Steps
+  * Setting question defaults.
+    * Need help with this please. Errors are the same as when we looked at it last week. 
+  * Fixing required server code for dependency questions.
+    * I also need help with this please. I have a draft but cannot figure out why it doesn't work.
+  * Figure out how to track participants across sessions.
+    * Perhaps we can tackle the teaching_r_study problem by using the taskdesignr package. I'm thinking we could use an internal enviornment if we have the demographics form contain a username entry? 
+* General Questions
+  * Best way to modularize code with conditions?
+    * I have two variables passed into a function, sex and race. The function needs to do different things depending on if one is NULL and the other isn't, they are both NULL, or they both have values. There are four conditions. How would you best handle it? As an example, one operation the function does is assign names to a dataframe:
+    
+    ```r 
+    if (is.null(sex) & is.null(race) {
+    names(output) <- c("id",
+                     paste0(variable, "_1"),
+                     paste0(variable, "_2"),
+                     paste0(variable, "_diff"),
+                     paste0(variable, "_mean"))
+    } else if (is.null(sex) & !is.null(race)) {
+      names(output) <- c("id",
+                     paste0(variable, "_1"),
+                     paste0(variable, "_2"),
+                     paste0(variable, "_diff"),
+                     paste0(variable, "_mean").
+                     paste0(race, "_1"),
+                     paste0(race, "_2"))
+    } else if (!is.null(sex) & is.null(race)) {
+      names(output) <- c("id",
+                     paste0(variable, "_1"),
+                     paste0(variable, "_2"),
+                     paste0(variable, "_diff"),
+                     paste0(variable, "_mean").
+                     paste0(sex, "_1"),
+                     paste0(sex, "_2"))
+    } else if (!is.null(sex) & !is.null(race)) {
+  
+     names(output) <- c("id",
+                     paste0(variable, "_1"),
+                     paste0(variable, "_2"),
+                     paste0(variable, "_diff"),
+                     paste0(variable, "_mean").
+                     paste0(sex, "_1"),
+                     paste0(race, "_2"),
+                     paste0(race, "_1"),
+                     paste0(race, "_2"))
+  
+    }
+    ```
 
 ## 2020-09-28
 
