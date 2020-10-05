@@ -4,6 +4,8 @@
 
 ### General 
 
+* Iris practice talk on 10/19 at 10am
+
 ### Nuri Park
  * What I accomplished this week
    * Attempted to fix errors but not successful
