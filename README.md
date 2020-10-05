@@ -4,6 +4,18 @@
 
 ### General 
 
+### Nuri Park
+ * What I accomplished this week
+   * Attempted to fix errors but not successful
+   * Added one exercise to "vector, lists, and data frames"
+ 
+ * Next steps
+   * Hope to add more exercises to the LearnR modules
+   
+ * Questions
+   * Can you help me fixing errors? 
+   * Can you review exercise that I added? 
+
 ## 2020-09-28
 
 ### General
