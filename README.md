@@ -84,6 +84,9 @@
   * Finish CITI training 
   * Read [write up](https://bookdown.org/Rmadillo/likert/always-visualize.html) on Likert analyses
   * Update IRB document with Background, Purpose, Methods
+  
+* Questions 
+  * For CITI training, want to verify the course should be Human Subjects Research > Social-Behavioral 
 
 ## 2020-09-28
 
