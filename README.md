@@ -6,6 +6,19 @@
 
 ### General
 
+### Jonathan Trattner
+
+* Accomplished
+  * Finalized the first draft of the survey code. UI function is named `surveyUI()` and `surveyServer()`.
+  * Added URL-based user tracking to the survey code.
+  * Began writing survey code vignette.
+* Next Steps
+  * Finish writing the survey code vignette.
+  * Develop a function to add an informed consent document to the Shiny app.
+* General Questions
+  * MongoDB help!
+  * AWS?
+  
 ## 2020-10-05
 
 ### General 
