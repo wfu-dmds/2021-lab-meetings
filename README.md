@@ -2,8 +2,6 @@
 
 ## 2020-10-12
 
-### Presenting: [sign up here]
-
 ### General
 
 ### Jonathan Trattner
