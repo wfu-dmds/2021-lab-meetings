@@ -41,6 +41,7 @@
   * Next steps
     * plan analyses 
     * submit IRB 
+    * complete final module of CITI training
     * look into setting up survey?
     
   * Questions
