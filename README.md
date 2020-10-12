@@ -4,7 +4,7 @@
 
 ### General
 
-### Nuri Park
+### Sophia Fang
  * What I accomplished this week
    * Went through Chapter 1-4 and came up with course objectives for each chapter
  
