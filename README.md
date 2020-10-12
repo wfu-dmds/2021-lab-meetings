@@ -35,7 +35,7 @@
 
   * Accomplished 
     * 1 (out of 11) module left in CITI training 
-    * updated IRB document with background, methods, purpose
+    * updated [IRB document](https://docs.google.com/document/d/1XtIwPoIvB-qvfL7Ei9gXVYNDMF1VcG6SlvRDpLDnDhY/edit?usp=sharing) with background, methods, purpose
     * read through write up on Likert analyses 
     
   * Next steps
