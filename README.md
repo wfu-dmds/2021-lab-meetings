@@ -19,6 +19,20 @@
   * MongoDB help!
   * AWS?
   
+### Nuri Park
+ * What I accomplished this week
+   * Instead of adding exercise, I added a code in the 'Subsetting tibbles' section where the "df" was not clear before showing example.
+   * Reviewed assessment questions
+     * I think they do adequately map module lessons; however, I am still confused about the last question on the assessment.
+     * It'd be good to have one question on using logical vector (something like "save a new column that has (blah) over 100")
+ 
+ * Next steps
+   * Finalize modules, I will go over module one more time and hope to fix all the errors with the help of Dr. McGowan (by October 19th) 
+   
+ * Questions
+   * Do you think we need to introduce rbind function with cbind? 
+   * Who are the initial groups that need to be enrolled by November 2nd? Do we collect data from them, and How? 
+  
 ## 2020-10-05
 
 ### General 
