@@ -30,6 +30,21 @@
  * Questions
    * Do you think we need to introduce rbind function with cbind? 
    * Who are the initial groups that need to be enrolled by November 2nd? Do we collect data from them, and How? 
+   
+### Hannah Mendoza 
+
+  * Accomplished 
+    * 1 (out of 11) module left in CITI training 
+    * updated IRB document with background, methods, purpose
+    * read through write up on Likert analyses 
+    
+  * Next steps
+    * plan analyses 
+    * submit IRB 
+    * look into setting up survey?
+    
+  * Questions
+    * What else can I be working on? 
   
 ## 2020-10-05
 
