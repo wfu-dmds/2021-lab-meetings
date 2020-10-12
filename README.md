@@ -4,6 +4,17 @@
 
 ### General
 
+### Nuri Park
+ * What I accomplished this week
+   * Went through Chapter 1-4 and came up with course objectives for each chapter
+ 
+ * Next steps
+   * Continue on course materials from Chapter 5
+   * Revise previous course objectives
+   
+ * Questions
+   * Some of the objectives might be too detailed. I would like them to be more concise.
+
 ### Jonathan Trattner
 
 * Accomplished
