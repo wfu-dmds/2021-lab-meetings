@@ -1,5 +1,22 @@
 # Agenda
 
+## 2020-10-19
+
+### General
+
+### Hannah Luebbering
+ * What I accomplished this week
+   * Added studies teaching how to program in R to the lit review
+   * Wrote an introductory draft for study on teaching R 
+ 
+ * Next steps
+   * Continue finding studies/ research
+   * Revise introductory draft
+   
+ * Questions
+   * What other sections of paper could I help with?
+   
+   
 ## 2020-10-12
 
 ### General
