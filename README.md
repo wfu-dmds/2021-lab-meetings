@@ -16,7 +16,18 @@
  * Questions
    * What other sections of paper could I help with?
    
-   
+### Jonathan Trattner
+
+* Accomplished
+  * Finished first draft of survey vignette.
+  * Created displayDocument code for informed consent or other documents.
+* Next Steps
+  * Create screen functions to display graphics, questions, choice buttons, sliders, etc.
+    * Do you think the general structure of the defineRun/defineTrial would work?
+* General Questions
+  * Would anyone be willing to go through my vignette and give me feedback?
+  * Should I attempt to integrate the survey code with the teaching_r_study? If so, what do I need to know?
+  
 ## 2020-10-12
 
 ### General
