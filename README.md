@@ -6,6 +6,16 @@
 
 * Adding a 30 minute meeting on Wed/Thurs?
   @LucyMcGowan send out when2meet for this!
+  
+ ### Sophia Fang
+ * What I accomplished this week
+   * Went through chapter 5 and summarized two course objectives
+   * Sent course objectives for chapter 1 to 4
+ 
+ * Next steps
+   * Revise objectives if feedback received
+   * Continue working on chapter 6 and beyond
+   
 
 ### Hannah Luebbering
  * What I accomplished this week
