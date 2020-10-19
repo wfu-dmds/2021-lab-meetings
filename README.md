@@ -4,6 +4,8 @@
 
 ### General
 
+* Adding a 30 minute meeting on Wed/Thurs?
+
 ### Hannah Luebbering
  * What I accomplished this week
    * Added studies teaching how to program in R to the lit review
@@ -27,6 +29,8 @@
 * General Questions
   * Would anyone be willing to go through my vignette and give me feedback?
   * Should I attempt to integrate the survey code with the teaching_r_study? If so, what do I need to know?
+  
+### Presentation: Jonathan
   
 ## 2020-10-12
 
