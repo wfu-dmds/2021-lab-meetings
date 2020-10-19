@@ -30,6 +30,19 @@
   * Would anyone be willing to go through my vignette and give me feedback?
   * Should I attempt to integrate the survey code with the teaching_r_study? If so, what do I need to know?
   
+### Hannah Mendoza 
+
+* Accomplished 
+  * Completed CITI training
+  * IRB submitted (?)
+  * Looked into SurveyMonkey + Prolific
+* Next steps 
+  * Check that survey is set up 
+  * Check on IRB approval 
+  * figure out revised time line for the rest of the semester
+* Questions
+  * How do submissions/presentations work for December grads? If you're not sure, whom should I ask? I realized I'm not entirely sure what my final deadline is
+  
 ### Presentation: Jonathan
   
 ## 2020-10-12
