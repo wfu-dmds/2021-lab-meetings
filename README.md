@@ -5,6 +5,7 @@
 ### General
 
 * Adding a 30 minute meeting on Wed/Thurs?
+  @LucyMcGowan send out when2meet for this!
 
 ### Hannah Luebbering
  * What I accomplished this week
