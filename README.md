@@ -18,6 +18,17 @@
   
 * Next steps 
   * Open survey to start collecting data 
+  
+### Jonathan Trattner
+
+* Accomplished
+  * Confusing myself with CSS - Please help!
+  * Not integrating survey questions with teaching_r_study
+     * How is teaching_r_study going to be disseminated? I have some ideas and can walk through what I did.
+* Next Steps
+  * Finish creating screen functions to display graphics, questions, choice buttons, sliders, etc.
+* General Questions
+  * I had one but can't remember it right now, so hopefully I will think of it as we go!
 
 ## 2020-10-19
 
