@@ -1,5 +1,15 @@
 # Agenda
 
+##2020-10-26
+
+### Nuri Park
+* What I accomplished this week
+  * I finished reviewing LearnR modules
+
+* Next Steps
+  * Send out modules to 4 professors/experts and collect initial data
+  * Ask them for any suggestions
+
 ## 2020-10-19
 
 ### General
