@@ -11,11 +11,11 @@
   * Ask them for any suggestions
   
 ### Hannah Mendoza
+
 * Accomplished 
   * Dr. D'Agostino McGowan created survey, I went through it several times to make sure everything looks good 
   * Responded to availability when2meet for presentations during the last week of classes
   * Revised timeline for the rest of the semester
-  
 * Next steps 
   * Open survey to start collecting data 
   
