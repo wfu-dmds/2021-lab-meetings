@@ -25,6 +25,14 @@
   * Using [sass](https://rstudio.github.io/sass/articles/sass.html) for allowing user-defined areas for Shiny UI elements
   * Unit testing
   
+### Hannah Mendoza 
+* Accomplished
+  * Got IRB approval (Yay! Thank you Dr. D'Agostino McGowan for dealing with all of the back and forth!)
+* Next steps 
+  * Open survey
+* Questions
+  * Anything big I should be doing in the meantime?
+  
 ## 2020-10-26
 
 ### Nuri Park
