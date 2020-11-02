@@ -30,6 +30,7 @@
   * Got IRB approval (Yay! Thank you Dr. D'Agostino McGowan for dealing with all of the back and forth!)
 * Next steps 
   * Open survey
+  * Use background + methods from IRB application as starting point for paper
 * Questions
   * Anything big I should be doing in the meantime?
   
