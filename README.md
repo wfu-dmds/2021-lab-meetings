@@ -23,6 +23,7 @@
   
 * Questions
   * Is there anything that I need to do for my thesis paper while waiting for feedback?
+   - [Plos Medicine most recent issue](https://journals.plos.org/plosmedicine/issue)
   
 ### Jonathan Trattner
 
