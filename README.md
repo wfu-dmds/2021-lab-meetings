@@ -1,5 +1,18 @@
 # Agenda
 
+## 2020-11-02 WOW It's already November!! 
+
+### Nuri Park
+* What I accomplished this week
+  * Dr. McGowan sent out modules to professors/experts
+  * Fixed typo on the module (Thanks to Dr. Dalzell)
+  
+* Next Steps 
+  * Wait for their comments/feedback and make adjustments accordingly.
+  
+* Questions
+  * Is there anything that I need to do for my thesis paper while waiting for feedback?
+  
 ## 2020-10-26
 
 ### Nuri Park
