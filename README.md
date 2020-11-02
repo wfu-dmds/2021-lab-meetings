@@ -2,6 +2,17 @@
 
 ## 2020-11-02 WOW It's already November!! 
 
+### Sophia Fang
+* What I accomplished this week
+  * Finished Chapter 6
+
+* Next Steps 
+  * Continue finishing Chapter 7
+  * Revise if any feedbacks
+  
+* Questions
+  * About next week
+
 ### Nuri Park
 * What I accomplished this week
   * Dr. McGowan sent out modules to professors/experts
@@ -31,9 +42,8 @@
 * Next steps 
   * Open survey
   * Use background + methods from IRB application as starting point for paper
-  * Look into other references to add to background
 * Questions
-  * Anything else big I should be doing in the meantime?
+  * Anything big I should be doing in the meantime?
   
 ## 2020-10-26
 
