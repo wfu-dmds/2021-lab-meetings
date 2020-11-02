@@ -13,6 +13,18 @@
 * Questions
   * Is there anything that I need to do for my thesis paper while waiting for feedback?
   
+### Jonathan Trattner
+
+* Accomplished
+  * Posted draft of [survey](https://jdtrat-apps.shinyapps.io/teaching_r_study_demographics/?user_id=dmds_lab/) and [learnr modules](https://jdtrat-apps.shinyapps.io/teaching_r_study/?user_id=dmds_lab/)
+* Next Steps
+  * Debug deployed apps (check logs).
+  * Add informed consent information that redirects to survey and then learnr modules.
+    * Specific language for informed consent?
+* General Questions
+  * Using [sass](https://rstudio.github.io/sass/articles/sass.html) for allowing user-defined areas for Shiny UI elements
+  * Unit testing
+  
 ## 2020-10-26
 
 ### Nuri Park
