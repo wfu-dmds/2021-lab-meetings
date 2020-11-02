@@ -31,8 +31,9 @@
 * Next steps 
   * Open survey
   * Use background + methods from IRB application as starting point for paper
+  * Look into other references to add to background
 * Questions
-  * Anything big I should be doing in the meantime?
+  * Anything else big I should be doing in the meantime?
   
 ## 2020-10-26
 
