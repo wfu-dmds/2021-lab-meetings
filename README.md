@@ -1,5 +1,35 @@
 # Agenda
 
+## 2020-11-09
+
+### Jonathan Trattner
+* Accomplished
+  * Updated the [welcome page](https://jdtrat-apps.shinyapps.io/teaching_r_study_welcome/) and integrated it with the survey and learnr modules. 
+    * Everything opens in the same window.
+    * Usernames are assigned upon consent
+  * Created functions to add and remove usernames.
+    * These should be more generalized and flushed out if we wish to include them other places. Right now they're very specific to the Teaching R Study.
+  * Worked on GUI for creating Shiny UI (taskdesignr).
+    * Need help saving images for dynamic uploading
+* Next Steps
+  * Launching Teaching R Study?
+    * Creating two documents for each group.
+    * Transferring documents to Dr. McGowan's shinyapps.io.
+  * Finishing GUI and screen functions for taskdesignr.
+    * Begin working on trial structure.
+    * Colin Fay is working on [multipage Shiny apps](https://twitter.com/_ColinFay/status/1324799785661091842), but it may not be ready for a little bit. Could we reach out to him and talk about incorporating it?
+  * Generalizing the usernames functionality. 
+    * Perhaps translating to SQL databases instead of Dropbox? Or adding functionality for it in addition?
+    * Adding a check for when the username groups are not equal (when get_username was unequally run for different groups) as below, there may be a problem with adding or removing usernames.
+    
+```r
+purrr::walk(.x = c(rep("A", 4), rep("B", 5)),
+            ~ get_username(.x,
+                           'teaching-r-study/'))       
+```
+* General Questions
+  * Can you help me improve the tests in the file testing_add_usernames.R (i.e. help converting into formal unit tests with testthat)?
+
 ## 2020-11-02 WOW It's already November!! 
 
 ### Sophia Fang
