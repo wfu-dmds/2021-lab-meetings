@@ -29,6 +29,20 @@ purrr::walk(.x = c(rep("A", 4), rep("B", 5)),
 ```
 * General Questions
   * Can you help me improve the tests in the file testing_add_usernames.R (i.e. help converting into formal unit tests with testthat)?
+  
+### Hannah Mendoza 
+
+* Accomplished this week 
+  * Got more familiar with data and visualizations and functions with first 150 observations 
+  * Worked on draft of intro + methods sections 
+  * began cleaning data set with all 600 observations (WIP) 
+* Next steps 
+  * finish cleaning
+  * create table with baseline demographic variables by treatment
+  * fit proportional odds models predicting Q2 from treatment
+* Questions 
+  * subsetting 
+  
 
 ## 2020-11-02 WOW It's already November!! 
 
