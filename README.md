@@ -36,6 +36,18 @@
     * For example, how could I re-execute a script every 24 hours or every time a database changes?
   * Does the university have a shinyapps.io plan I could utilize? I ran out of space on my free plan...
   
+### Hannah Mendoza 
+* Accomplished 
+  * Got together most of intro+methods
+  * Visualizations for responses to Q1 and Q2 by treatment
+  * Table with baseline variables - looks pretty balanced; will definitely fit models for male/female separately in addition to the full one
+  * started analysis with orm in rms package
+* Next steps 
+  * work on finishing fitting the models and interpreting them
+  * incorporate better descriptions of the visualizations
+* Questions 
+  * visualizing the probabilities for scoring 1-5 based on treatment: I think I've figured out how to pull these pretty easily, but for visualizing these results, should I use a line graph like they do [here](https://bookdown.org/Rmadillo/likert/is-there-a-significant-difference.html#proportional-odds-regression)? That seems like a slightly confusing visualization to me but I'm not sure
+  
 ## 2020-11-09
 
 ### Jonathan Trattner
