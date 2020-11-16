@@ -17,6 +17,25 @@
   * Research goal: are we revising? 
   * Hypothesis 
   
+### Jonathan Trattner
+* Accomplished
+  * Not related to this lab, but I published my first package to CRAN!
+  * Made some progress with task designer UI but wasn’t able to figure it out — would appreciate some more hands-on help.
+* Next Steps
+  * Launching Teaching R Study?
+    * Creating two documents for each group.
+    * Transferring documents to Dr. McGowan's shinyapps.io.
+  * Finishing GUI and screen functions for taskdesignr.
+* General Questions
+  * Username functions
+    * Did you have a chance to look at my tests for the username functions?
+    * Could we talk about SQL integration?
+  * CRAN reference manual — how could I delete internal functions?
+  * Could you explain `UseMethod`? 
+  * Can I automate scripts in R without using my personal laptop?
+    * For example, how could I re-execute a script every 24 hours or every time a database changes?
+  * Does the university have a shinyapps.io plan I could utilize? I ran out of space on my free plan...
+  
 ## 2020-11-09
 
 ### Jonathan Trattner
