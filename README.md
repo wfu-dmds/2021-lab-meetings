@@ -1,5 +1,22 @@
 # Agenda
 
+## 2020-11-16 
+
+### Nuri Park
+* Accomplished
+  * Completed outline for introduction and methods section of the paper
+  * Introduction - literature review, overview of LearnR, Shiny, Tidyverse, and Base R, shiny tools
+  * Methods - recruitment, two-period cross-over study, controlled, randomized trial, measurements, demographics, statistical analysis, hypothesis
+
+* Next Steps
+  * Collect comments from professors/experts and make changes accordingly
+  * Work on filling in more details for the paper
+  
+* Questions
+  * What kind of demographics are we collecting?
+  * Research goal: are we revising? 
+  * Hypothesis 
+  
 ## 2020-11-09
 
 ### Jonathan Trattner
