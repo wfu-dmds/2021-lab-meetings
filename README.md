@@ -27,6 +27,24 @@
   * Research goal: are we revising? 
   * Hypothesis 
   
+  Minor Comments Along the Way
+* Typo in "Vectors, Lists, Data Frames" I think you mean multiply not multiple, but technically you haven't introduced the multiply " * " operator yet (or subtraction, division, etc.)
+* A common issue is that a student wants to check if x is less than or equal to -3, and writes "x<-3" and accidentally reassigns x.  Worth mentioning?
+* The verbal explanations of && and || were not clear to me, but the student didn't need to use either.
+* Your tasks ask to create objects, but the student can do it correctly and not have it display if they assign the object...
+>data.frame(x,y) vs. >z <- data.frame(x,y) is what I have in mind.  This could cause confusion.  At first I thought my code wasn't running but then I realized I was only assigning and not displaying.
+* For you exercise on adding a column to an object df, I think the computer scientists would bristle at using the same name "df" for the new object.  But I break this rule all the time.  What it means is that if a student runs their code more than once they could accidentally keep adding columns.  Not an issue for chunks in RMarkdown but an issue for R scripts or working in the console.
+* Any reason you spell is "summarise"?  Seems British to me.
+* I am in the Assessment, did you introduce a command to check the dimension of a data frame?  I don't recall.  A student can click the buttons at the bottom of the window displaying the data to see the answers, but they couldn't do that in an actual R analysis.
+* The word "filter" is unfamiliar to me.  I have only ever heard subset.  I keep thinking you must mean something more specific.  You've used this term a few times by now.
+
+Larger Overall Comments
+* The number of activities throughout seems low relative to the number of concepts/commands you are teaching.  I am inclined to think students need to use most if not all of the commands you introduce in exercises.  By the time I got to "Indexing Vectors" I thought this may be moving too fast for some.  To a student who still doesn't immediately know what c() and brackets mean, the expression "y[c(TRUE, FALSE)]" is not likely to be clear.
+
+* For what it's worth, I have never used nor heard of the R commands >aggregate() or >subset().  They are probably more efficient than what I do.  For subset I just treat a data frame as a matrix and write stuff like mtcars[(mpg>20),].  Maybe I am just outdated in this regard.  I mention this only because you wanted to know what this looks like to a base R user.
+
+* Finally I'll level with you, I just completed it and the syntax for >subset() has already left my short-term memory.  I am not sure how long you intend students to work on this, but if these are the topics you want to cover I might suggest a few more exercises along the way, add a few that take 2-4 lines of code to complete "(first make ..., and then merge it with ..."), and I would revisit all of this a few days later with a guided lab or more open-ended task to make sure things stick.  As it stands it feels a little like those HR modules "Here's a webinar on rules for H1B visas and there will be a quiz at the end to make sure you learned everything" and somehow I pass the quiz but three days later I am helpless and don't remember any of the rules.  I think there is too much good information to be conveyed in one sitting, that's my point.
+  
 ### Jonathan Trattner
 * Accomplished
   * Not related to this lab, but I published my first package to CRAN!
