@@ -2,6 +2,16 @@
 
 ## 2020-11-16 
 
+### Sophia Fang
+* Accomplished
+  * Finished Chapter 7 and posted objectives
+
+* Next Steps
+  * Continue from Chapter 8
+  
+* Questions
+  * Feedback if any
+
 ### Nuri Park
 * Accomplished
   * Completed outline for introduction and methods section of the paper
