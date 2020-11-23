@@ -1,5 +1,19 @@
 # Agenda
 
+## 2020-11-23
+
+### Jonathan Trattner
+* Accomplished
+  * Nothing specific!
+* Next Steps
+  * Finishing GUI and screen functions for taskdesignr.
+    * Begin working on trial structure.
+  * Generalizing the usernames functionality. 
+    * Perhaps translating to SQL databases instead of Dropbox? Or adding functionality for it in addition?
+    * Adding a check for when the username groups are not equal (when get_username was unequally run for different groups) as below, there may be a problem with adding or removing usernames.
+* General Questions
+  * None right now!
+  
 ## 2020-11-16 
 
 ### Sophia Fang
