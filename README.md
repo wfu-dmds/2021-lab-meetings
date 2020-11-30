@@ -1,5 +1,42 @@
 # Agenda
 
+## 2020-11-30
+
+### Jonathan Trattner
+
+* Accomplished
+  * Separated taskdesignr into two packages:
+    * [shinysurveys](https://github.com/jdtrat/shinysurveys)
+    * [shinydesignr](https://github.com/jdtrat/shinydesignr)
+  * Created a barebones version of shinysurveys GUI similar to Google Forms
+    * Functionality includes theme (color) selection
+    * Downloadable R Projects with Shiny app code ready to run
+* Next Steps
+  * Polish shinysurveys
+    * Downloadable R Projects work locally but not on shinyapps.io
+    * csv with questions when downloaded returns a weird error similar to: https://github.com/tidyverse/dplyr/issues/5189 
+    * Improve removing options/questions
+  * Add better UI elements for shinydesignr
+    * More accurate text, images, and Shiny UI elements for prototyping
+    * Reduce grid from 100x100 to ____? 
+  * In taskdesignr:
+    * Create trial structure
+    * Generalizing the usernames functionality. 
+      * Perhaps translating to SQL databases instead of Dropbox? Or adding functionality for it in addition?
+      * Adding a check for when the username groups are not equal (when get_username was unequally run for different groups) as below, there may be a problem with adding or removing usernames.
+* General Questions
+  * What should I focus on first?
+  * Linking blogdown websites with pkgdown. 
+    * Creating a better workflow than [drag and drop](https://enpiar.com/2017/12/18/integrating-pkgdown-with-your-personal-website/)?
+      * Creating a function (to place in a package or contribute to blowdown/pkgdown) that will convert pkgdown CSS to that of Hugo theme used in Blogdown websites.
+        * Example: www.jdtrat.com/packages/ vs. www.jdtrat.com/packages/shinysurveys/
+  * Could you please give a small presentation on how to use Travis CI?
+  * Could you please give a small presentation on (or point me in the direction of useful resources for) the following? I have had trouble figuring them out on my own:
+    * Travis CI
+      * With code in general — maybe we can start with shinysurveys?
+      * With pkgdown integration
+    * Github Actions
+
 ## 2020-11-23
 
 ### Jonathan Trattner
