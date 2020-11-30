@@ -47,6 +47,7 @@
   * Fit proportional odds models: treatment ~ Q2 on full set, male, female
 * Next steps 
   * finalize information and finish creating presentation slides 
+  * add further questions / explorations to write up + pres (if not time to actually do them)
   * practice presentation (I'm going Thursday 4:45-5:00, 13m talk, 2m questions)
 * Questions 
   * Since we said we'd just look at male and female separate groupings and not "Prefer to self-describe" respondents, should these still be included in the full model?
