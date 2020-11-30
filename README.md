@@ -38,6 +38,19 @@
       * With code in general — maybe we can start with shinysurveys?
       * With pkgdown integration
     * Github Actions
+    
+### Hannah Mendoza 
+* Accomplished 
+  * Better visualizations of Likert data using centered bar charts 
+  * Cleaned up presentation and added more descriptions and patterns noticed in initial visualizations
+  * Checked response to whether they currently sanitize their phone and I think it looks pretty balanced!
+  * Fit proportional odds models: treatment ~ Q2 on full set, male, female
+* Next steps 
+  * finalize information and finish creating presentation slides 
+  * practice presentation (I'm going Thursday 4:45-5:00, 13m talk, 2m questions)
+* Questions 
+  * Since we said we'd just look at male and female separate groupings and not "Prefer to self-describe" respondents, should these still be included in the full model?
+  * Do you agree that currSanitize is balanced? 
 
 ## 2020-11-23
 
