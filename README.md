@@ -2,6 +2,16 @@
 
 ## 2020-11-30
 
+### Sophia Fang
+* Accomplished
+  * Finished Chapter 8 and Chapter 9
+
+* Next Steps
+  * Finish Chapter 10 to 12
+  
+* Questions
+  * Objectives for chapter 8 and 9 are a little difficult to summarize since there are a lot going on
+
 ### Jonathan Trattner
 
 * Accomplished
