@@ -26,6 +26,7 @@
       * Adding a check for when the username groups are not equal (when get_username was unequally run for different groups) as below, there may be a problem with adding or removing usernames.
 * General Questions
   * What should I focus on first?
+  * Have you downloaded MacOS Big Sur? Would you recommend it?
   * Linking blogdown websites with pkgdown. 
     * Creating a better workflow than [drag and drop](https://enpiar.com/2017/12/18/integrating-pkgdown-with-your-personal-website/)?
       * Creating a function (to place in a package or contribute to blowdown/pkgdown) that will convert pkgdown CSS to that of Hugo theme used in Blogdown websites.
