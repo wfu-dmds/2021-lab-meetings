@@ -54,6 +54,7 @@
   * Adjusting for currSanitize was interesting (p-value for each is big without adjusting, but when we adjust, then the p-value for males is ~0.02)
   * Model output: should I / how do I interpret the part of the output of `orm` which is model likelihood?
   * Should I add the baseline characteristics questions to the appendix, or is that redundant since table 1 conveys those?
+  * Can I meet with you again 1:1 later this week to make sure my slides look good?
 
 ## 2020-11-23
 
