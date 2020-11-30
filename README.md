@@ -51,7 +51,8 @@
   * practice presentation (I'm going Thursday 4:45-5:00, 13m talk, 2m questions)
 * Questions 
   * Since we said we'd just look at male and female separate groupings and not "Prefer to self-describe" respondents, should these still be included in the full model?
-  * Do you agree that currSanitize is balanced? 
+  * Adjusting for currSanitize was interesting (p-value for each is big without adjusting, but when we adjust, then the p-value for males is ~0.02)
+  * Model output: should I / how do I interpret the part of the output of `orm` which is model likelihood?
 
 ## 2020-11-23
 
