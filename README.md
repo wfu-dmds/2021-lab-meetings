@@ -31,6 +31,7 @@
     * Creating a better workflow than [drag and drop](https://enpiar.com/2017/12/18/integrating-pkgdown-with-your-personal-website/)?
       * Creating a function (to place in a package or contribute to blowdown/pkgdown) that will convert pkgdown CSS to that of Hugo theme used in Blogdown websites.
         * Example: www.jdtrat.com/packages/ vs. www.jdtrat.com/packages/shinysurveys/
+        * Why does the shinysurveys vignette not render properly with pkgdown?
   * Could you please give a small presentation on how to use Travis CI?
   * Could you please give a small presentation on (or point me in the direction of useful resources for) the following? I have had trouble figuring them out on my own:
     * Travis CI
