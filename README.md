@@ -1,5 +1,32 @@
 # Agenda
 
+## 2020-12-07
+
+### Jonathan Trattner
+
+* Accomplished
+  * Updated teaching r study to use shiny
+  * Fixed (I think) csv error with questions download from last time in shinysurveys
+  * Updated username functions (work offline now) in taskdesignr and added some unit tests
+* Next Steps
+  * Polish shinysurveys
+    * Downloadable R Projects work locally but not on shinyapps.io
+    * Improve removing options/questions
+  * Add better UI elements for shinydesignr
+    * More accurate text, images, and Shiny UI elements for prototyping
+  * In taskdesignr:
+    * Create trial structure
+    * Generalizing the usernames functionality. 
+      * Perhaps translating to SQL databases instead of Dropbox? Or adding functionality for it in addition?
+      * Adding a check for when the username groups are not equal (when get_username was unequally run for different groups) as below, there may be a problem with adding or removing usernames.
+* General Questions
+  * shinysurveys cannot be installed to my shinyapps.io so I cannot test it in the cloud. Can we look at that?
+  * I just came across [an R wrapper](https://github.com/Yang-Tang/shinyjqui) for javascript's jQuery UI. Do you think it would be a good/bad idea to try and incorporate this into our shinydesignr package? Pros vs. cons with just using the magick package?
+    * Worried it may not be supported for too long?
+  * Do you have experience making custom Shiny input bindings?
+  * Would you recommend creating slides in RMarkdown with Xaringan?
+  * I've been writing final papers with Visual RMarkdown and have a lot of thoughts. Should I post on the community forum?
+
 ## 2020-11-30
 
 ### Sophia Fang
