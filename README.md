@@ -1,5 +1,17 @@
 # Agenda
 
+## 2020-12-31
+
+### Nuri Park
+
+* Accomplished
+  * Read different papers using cross-over studies to come up with an analysis plan
+  * Searched grading rubric for r assessment
+
+* Questions
+  * Since we have pre- and post-assessment for both base R and tidy verse, should we look at the percentage change (pre- and post-assessment) and set the null hypothesis as mean percentage changes are different from each other? 
+
+
 ## 2020-12-07
 
 ### Jonathan Trattner
