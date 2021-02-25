@@ -1,5 +1,14 @@
 # Agenda
 
+## 2021-02-25
+
+### Iris
+
+1. grid needs to be a reactive object in the server function
+2. Update the reactive object if alpha, kappa, or eta change
+3. Use that reactive object in the renderPlotly portion of the code
+For example if you called the reactive grid object “grid” then when you refer to it in the renderPlotly it would be grid() We might want to call it something like “reactive_grid"
+
 ## 2020-12-31
 
 ### Nuri Park
