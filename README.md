@@ -1,5 +1,19 @@
 # Agenda
 
+## 2021-03-18
+
+### Nuri 
+
+* Accomplished
+  * Made the data set "wide" with two rows for all users that completed both assessments
+  * Removed those that only did assessment 1 (who didn't do assessment 2)
+  * Separated A group and B group to make eaiser for grading
+
+* Questions
+  * Do you have a solution for assessments?
+  * A and B - which one is base R first?
+  * Presentation Draft
+
 ## 2021-02-25
 
 ### Iris
